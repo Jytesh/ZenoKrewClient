@@ -1,0 +1,8 @@
+node_modules/
+release-builds/
+installers/
+.snyk/
+ignored/
+krunkerCode
+*.DS_Store
+package-lock.json

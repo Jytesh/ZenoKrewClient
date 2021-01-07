@@ -5,4 +5,3 @@ installers/
 ignored/
 krunkerCode
 *.DS_Store
-package-lock.json
